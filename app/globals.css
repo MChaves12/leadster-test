@@ -105,3 +105,10 @@ a {
     color-scheme: dark;
   }
 }
+
+@font-face {
+  font-family: 'PlusJakartaSans' ;
+  src: url('../src/assets/PlusJakartaSans/PlusJakartaSans-Bold.ttf');
+  src: url('../src/assets/PlusJakartaSans/PlusJakartaSans-Light.ttf');
+  src: url('../src/assets/PlusJakartaSans/PlusJakartaSans-Regular.ttf');
+}

@@ -6,3 +6,46 @@
     align-items: center;
     justify-content: center;
 }
+
+.first-p {
+    border: 2px solid rgb(0, 126, 255);
+    color: rgb(0, 126, 255) ;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius:  15px;
+    border-top-left-radius: 15px;
+    padding: 3px;
+    margin-bottom: 20px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    font-family: 'PlusJakartaSans';
+}
+
+h3 {
+    font-family: 'PlusJakartaSans';
+    font-size: 32px;
+    font-weight: 300;
+}
+
+h1 {
+    width: 500px;
+    text-align: center;
+    color: rgb(0, 126, 255);
+    font-family: 'PlusJakartaSans';
+    font-size: 62px;
+    font-weight: 900;
+    margin-bottom: 15px;
+}
+
+hr {
+    width: 500px;
+    border: 0,5px solid grey;
+    margin-bottom: 15px;
+}
+
+.second-p {
+    font-family: 'PlusJakartaSans';
+    text-align: center;
+    font-size: 13px;
+    width: 500px;
+}
