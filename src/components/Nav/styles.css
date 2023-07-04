@@ -1,0 +1,11 @@
+.navbar {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.leadster-logo {
+    margin: 10px;
+    object-fit: contain;
+}
