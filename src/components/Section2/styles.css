@@ -1,0 +1,63 @@
+.section2 {
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+.btns-container {
+    width: 900px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.generic-btns{
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn1, .btn2, .btn5 {
+    width: 85px;
+    height: 28px;
+    background-color: white;
+    border-radius: 15px;
+    border: 1px solid grey;
+    font-family: 'PlusJakartaSans';
+    font-weight: 500;
+}
+
+.btn3, .btn4, .btn6 {
+    width: 140px;
+    height: 28px;
+    background-color: white;
+    border-radius: 15px;
+    border: 1px solid grey;
+    font-family: 'PlusJakartaSans';
+    font-weight: 500;
+}
+
+.thumbnails {
+    width: 900px;
+    height: 750px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.breakline-sec2 {
+    width: 900px;
+    border: 0,5px solid grey;
+    margin-bottom: 15px;
+}
+
+.btn1:hover, .btn2:hover, .btn3:hover, .btn4:hover, .btn5:hover, .btn6:hover {
+    color: rgb(0, 126, 255);
+    border: 2px solid rgb(0, 126, 255);
+
+}
